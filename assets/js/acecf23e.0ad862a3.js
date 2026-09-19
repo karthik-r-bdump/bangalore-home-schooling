@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([["3220"],{1912(e){e.exports=JSON.parse('{"blogBasePath":"/bangalore-home-schooling/blog","blogTitle":"Blog","authorsListPath":"/bangalore-home-schooling/blog/authors"}')}}]);
