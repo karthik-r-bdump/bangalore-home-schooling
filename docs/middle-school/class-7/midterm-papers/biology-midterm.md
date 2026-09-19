@@ -57,7 +57,7 @@ Full question papers and model answers for **Class 7 First Terminal Examination 
 ---
 
 ## 📥 Downloadable Study Assets
-- 📘 [Download Histology Tactical Playbook PDF](/bangalore-home-schooling/assets/class-7/biology/01-histology-tactical-playbook.pdf)
-- 📘 [Download Photosynthesis Decoded PDF](/bangalore-home-schooling/assets/class-7/biology/03-photosynthesis-decoded.pdf)
-- 📘 [Download Respiration Decoded PDF](/bangalore-home-schooling/assets/class-7/biology/04-respiration-decoded.pdf)
-- 🗂️ [Download Biology Class 7 Anki Deck (.apkg)](/bangalore-home-schooling/assets/flashcards/biology-class7-cards.apkg)
+- 📘 [Download Histology Tactical Playbook PDF](pathname:///bangalore-home-schooling/assets/class-7/biology/01-histology-tactical-playbook.pdf)
+- 📘 [Download Photosynthesis Decoded PDF](pathname:///bangalore-home-schooling/assets/class-7/biology/03-photosynthesis-decoded.pdf)
+- 📘 [Download Respiration Decoded PDF](pathname:///bangalore-home-schooling/assets/class-7/biology/04-respiration-decoded.pdf)
+- 🗂️ [Download Biology Class 7 Anki Deck (.apkg)](pathname:///bangalore-home-schooling/assets/flashcards/biology-class7-cards.apkg)

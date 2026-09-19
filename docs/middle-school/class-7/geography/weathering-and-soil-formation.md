@@ -110,4 +110,4 @@ GROUNDED VERBATIM STUDY GUIDE                        Page 1                     
 ---
 
 ## 📥 Downloadable Assets
-- 📘 [Download Weathering & Soil Flashcards PDF](/bangalore-home-schooling/assets/class-7/geography/02-weathering-and-soil-flashcards.pdf)
+- 📘 [Download Weathering & Soil Flashcards PDF](pathname:///bangalore-home-schooling/assets/class-7/geography/02-weathering-and-soil-flashcards.pdf)

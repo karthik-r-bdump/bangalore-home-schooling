@@ -138,5 +138,5 @@ Ans: Ghiyas-ud-din Balban ascended t
 ---
 
 ## 📥 Learning Resources
-- 📘 [Download Complete Delhi Sultanate Revision Guide PDF](/bangalore-home-schooling/assets/class-7/history-civics/01-delhi-sultanate-revision-guide.pdf)
-- 🗂️ [Download Anki Flashcard Deck](/bangalore-home-schooling/assets/flashcards/delhi-sultanate-cards.colpkg)
+- 📘 [Download Complete Delhi Sultanate Revision Guide PDF](pathname:///bangalore-home-schooling/assets/class-7/history-civics/01-delhi-sultanate-revision-guide.pdf)
+- 🗂️ [Download Anki Flashcard Deck](pathname:///bangalore-home-schooling/assets/flashcards/delhi-sultanate-cards.colpkg)

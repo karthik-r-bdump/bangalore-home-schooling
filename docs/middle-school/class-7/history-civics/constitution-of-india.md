@@ -125,4 +125,4 @@ Grounded Verbatim in the Student's Textbook Sources       Page 1                
 ---
 
 ## 📥 Learning Resources
-- 📘 [Download Indian Constitution Blueprint PDF](/bangalore-home-schooling/assets/class-7/history-civics/03-indian-constitution-blueprint.pdf)
+- 📘 [Download Indian Constitution Blueprint PDF](pathname:///bangalore-home-schooling/assets/class-7/history-civics/03-indian-constitution-blueprint.pdf)

@@ -254,7 +254,7 @@ m) The election for the formation of the Constituent Assembly w
 ---
 
 ## 📥 Downloadable Study Assets
-- 📘 [Download Delhi Sultanate Revision Guide PDF](/bangalore-home-schooling/assets/class-7/history-civics/01-delhi-sultanate-revision-guide.pdf)
-- 📘 [Download Deccan Titans Blueprint PDF](/bangalore-home-schooling/assets/class-7/history-civics/02-deccan-titans-blueprint.pdf)
-- 📘 [Download Indian Constitution Blueprint PDF](/bangalore-home-schooling/assets/class-7/history-civics/03-indian-constitution-blueprint.pdf)
-- 🗂️ [Download Delhi Sultanate Anki Flashcard Deck (.colpkg)](/bangalore-home-schooling/assets/flashcards/delhi-sultanate-cards.colpkg)
+- 📘 [Download Delhi Sultanate Revision Guide PDF](pathname:///bangalore-home-schooling/assets/class-7/history-civics/01-delhi-sultanate-revision-guide.pdf)
+- 📘 [Download Deccan Titans Blueprint PDF](pathname:///bangalore-home-schooling/assets/class-7/history-civics/02-deccan-titans-blueprint.pdf)
+- 📘 [Download Indian Constitution Blueprint PDF](pathname:///bangalore-home-schooling/assets/class-7/history-civics/03-indian-constitution-blueprint.pdf)
+- 🗂️ [Download Delhi Sultanate Anki Flashcard Deck (.colpkg)](pathname:///bangalore-home-schooling/assets/flashcards/delhi-sultanate-cards.colpkg)

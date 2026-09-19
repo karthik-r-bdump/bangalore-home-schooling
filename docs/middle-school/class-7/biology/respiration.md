@@ -243,4 +243,4 @@ Verification Guide                   21              exact, highlighted quotatio
 ---
 
 ## 📥 Downloadable Assets
-- 📘 [Download Respiration Decoded PDF](/bangalore-home-schooling/assets/class-7/biology/04-respiration-decoded.pdf)
+- 📘 [Download Respiration Decoded PDF](pathname:///bangalore-home-schooling/assets/class-7/biology/04-respiration-decoded.pdf)

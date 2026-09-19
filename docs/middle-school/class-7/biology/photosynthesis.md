@@ -139,4 +139,4 @@ Chapter 3 Exercises: Photosynthesis — Study Workbook                          
 ---
 
 ## 📥 Downloadable Assets
-- 📘 [Download Photosynthesis Decoded PDF](/bangalore-home-schooling/assets/class-7/biology/03-photosynthesis-decoded.pdf)
+- 📘 [Download Photosynthesis Decoded PDF](pathname:///bangalore-home-schooling/assets/class-7/biology/03-photosynthesis-decoded.pdf)

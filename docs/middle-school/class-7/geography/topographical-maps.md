@@ -124,4 +124,4 @@ Source: 01 geographical features.pdf (7th Grade Geography)                      
 ---
 
 ## 📥 Downloadable Assets
-- 📘 [Download Topographical Map Mastery Guide PDF](/bangalore-home-schooling/assets/class-7/geography/01-topographical-map-mastery.pdf)
+- 📘 [Download Topographical Map Mastery Guide PDF](pathname:///bangalore-home-schooling/assets/class-7/geography/01-topographical-map-mastery.pdf)

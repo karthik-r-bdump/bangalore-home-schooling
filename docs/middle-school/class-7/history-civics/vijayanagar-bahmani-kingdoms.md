@@ -133,5 +133,5 @@ Source: Vijayanagara Bahmani Kingdoms.pdf                                       
 ---
 
 ## 📥 Learning Resources
-- 📘 [Download Deccan Titans Blueprint PDF](/bangalore-home-schooling/assets/class-7/history-civics/02-deccan-titans-blueprint.pdf)
-- 📘 [Download Augmented Deccan Blueprint PDF](/bangalore-home-schooling/assets/class-7/history-civics/02-augmented-deccan-blueprint.pdf)
+- 📘 [Download Deccan Titans Blueprint PDF](pathname:///bangalore-home-schooling/assets/class-7/history-civics/02-deccan-titans-blueprint.pdf)
+- 📘 [Download Augmented Deccan Blueprint PDF](pathname:///bangalore-home-schooling/assets/class-7/history-civics/02-augmented-deccan-blueprint.pdf)

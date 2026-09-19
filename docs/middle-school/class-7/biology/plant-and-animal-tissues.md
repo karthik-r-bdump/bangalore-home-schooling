@@ -128,4 +128,4 @@ Grounded in 01_tissues.pdf — Textbook Solved Exercises                        
 ---
 
 ## 📥 Downloadable Assets
-- 📘 [Download Histology Tactical Playbook PDF](/bangalore-home-schooling/assets/class-7/biology/01-histology-tactical-playbook.pdf)
+- 📘 [Download Histology Tactical Playbook PDF](pathname:///bangalore-home-schooling/assets/class-7/biology/01-histology-tactical-playbook.pdf)

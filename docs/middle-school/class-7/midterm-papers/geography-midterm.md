@@ -236,5 +236,5 @@ ICSE MODEL CURRICULUM ASSESSMENT
 ---
 
 ## 📥 Downloadable Study Assets
-- 📘 [Download Topographical Map Mastery Guide PDF](/bangalore-home-schooling/assets/class-7/geography/01-topographical-map-mastery.pdf)
-- 📘 [Download Weathering and Soil Flashcards PDF](/bangalore-home-schooling/assets/class-7/geography/02-weathering-and-soil-flashcards.pdf)
+- 📘 [Download Topographical Map Mastery Guide PDF](pathname:///bangalore-home-schooling/assets/class-7/geography/01-topographical-map-mastery.pdf)
+- 📘 [Download Weathering and Soil Flashcards PDF](pathname:///bangalore-home-schooling/assets/class-7/geography/02-weathering-and-soil-flashcards.pdf)
